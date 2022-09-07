@@ -1,0 +1,3 @@
+cat > reference.fq.gz
+cat > reference2.fq.gz
+cat > matadata.csv
